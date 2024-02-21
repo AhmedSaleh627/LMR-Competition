@@ -21,7 +21,7 @@ The second robot we've developed features a robotic arm that is controlled by a 
 
 
 ## Repository Structure
-- **/autonomous-maze-robot.ino**: Contains the code for the autonomous maze-solving robot.
-- **/ps4-controlled-robotic-arm.ino**: Contains the code for the robot with the PS4 controlled robotic arm.
+- **/Maze-Solver-Robot.ino**: Contains the code for the autonomous maze-solving robot.
+- **/Robot-with-a-Robotic-arm.ino**: Contains the code for the robot with the PS4 controlled robotic arm.
 - **/Report**: Additional documentation, includes technical specifications.
 
