@@ -6,12 +6,17 @@ This repository documents our participation in the LMR (Lets make a Robot) compe
 ## Autonomous Maze-Solving Robot
 Our autonomous maze-solving robot is designed to navigate through a maze without human intervention. Using a combination of sensors, algorithms, and precise motor control, our robot can analyze its environment and make decisions to efficiently navigate from the starting point to the endpoint of the maze.
 
+![WhatsApp Image 2024-05-02 at 11 16 04 PM](https://github.com/AhmedSaleh627/LMR-Competition/assets/88249795/f5102fde-8ae6-4038-9646-22692b99a591)
+
+
 ### Features:
 - Utilizes sensors such as ultrasonic sensors, infrared sensors for environment perception.
 - Employs motor control mechanisms for precise movement and navigation.
 
 ## Robot with a Robotic Arm
 The second robot we've developed features a robotic arm that is controlled by a PS4 controller. This setup allows for intuitive and real-time control of the robotic arm's movements, enabling various applications ranging from manipulation tasks to interactive demonstrations.
+
+![WhatsApp Image 2024-05-02 at 11 17 48 PM](https://github.com/AhmedSaleh627/LMR-Competition/assets/88249795/7b744538-e0b9-4c4c-a183-0e88d5dd1bcb)
 
 ### Features:
 - Integrates a robotic arm with multiple degrees of freedom.
